@@ -1,0 +1,12 @@
+# input files
+*.txt
+
+# testing tools
+*testing_tool.py
+*interactive_runner.py
+
+*.DS_Store
+
+*.zip
+
+
